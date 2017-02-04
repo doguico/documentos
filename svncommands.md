@@ -1,5 +1,8 @@
 # SVN Commands
 
+## Checkout
+- svn co [URL] [CarpetaDestino]
+
 ## Update
 - svn update
 
