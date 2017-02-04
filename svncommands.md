@@ -26,3 +26,6 @@
  
 ## Revert
 - svn revert . -R
+
+## Referencias
+- http://svnbook.red-bean.com/en/1.7/svn-book.pdf
