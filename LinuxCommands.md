@@ -30,7 +30,7 @@
 - mv [Archivo] [NombreNuevo]      
 
 # Vi
-## Cambiar de modos: ESC
+
 ## Guardar
 - ZZ (Note: capitals) - Save and exit
 - :q
@@ -60,9 +60,6 @@
 - Instalar: sudo dpkg -i DEB_PACKAGE
 - Desinstalar: sudo dpkg -r PACKAGE_NAME
 
-Checkout de svn
-	- svn checkout [NombreReposi] o svn co
-
 ## Pisaditas
 - limpiar consola: ctrl + l
 - para cancelar: ctrl + c
@@ -73,5 +70,3 @@ Checkout de svn
 
 Paginas
 - https://help.ubuntu.com/community/UsingTheTerminal
-- http://svnbook.red-bean.com/en/1.7/svn-book.pdf
-- https://dev.mysql.com/doc/refman/5.7/en/comparison-operators.html
