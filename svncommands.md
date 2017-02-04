@@ -8,7 +8,7 @@
 
 ## Difference
 - svn diff
--- agregando **-u** se muestran los documentos que fueron modificados en el ultimo commit
+ - agregando **-u** se muestran los documentos que fueron modificados en el ultimo commit
 
 ## Commit
 ### Status
