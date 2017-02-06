@@ -70,3 +70,5 @@
 
 Paginas
 - https://help.ubuntu.com/community/UsingTheTerminal
+- https://www.lifewire.com/
+- ryantutorials.net/linuxtutorial
